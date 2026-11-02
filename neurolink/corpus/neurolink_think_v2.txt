@@ -1,0 +1,7572 @@
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 93 moins 89 ?
+<|end|>
+<|assistant|>
+<think>
+93 moins 89 = 4.
+</think>
+93 moins 89 font 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 10 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 10 = 10.
+</think>
+1 fois 10 font 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 71 km/h pendant 5 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 71 fois 5 = 355.
+</think>
+Il parcourt 355 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 21 crayons et en donne 19. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 21 - 19 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « house » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais house correspond au français maison.
+</think>
+« house » se traduit par « maison ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 0 = 0.
+</think>
+3 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 27 cartes et en donne 6. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 27 - 6 = 21.
+</think>
+Il lui en reste 21.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 11 cartes et en donne 6. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 11 - 6 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 44 plus 6 ?
+<|end|>
+<|assistant|>
+<think>
+44 plus 6 = 50.
+</think>
+44 plus 6 font 50.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 10 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 10 = 100.
+</think>
+10 fois 10 font 100.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 49 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 49 fois 1 = 49.
+</think>
+Il parcourt 49 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 7 billes et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 2 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 71 moins 7 ?
+<|end|>
+<|assistant|>
+<think>
+71 moins 7 = 64.
+</think>
+71 moins 7 font 64.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 102 km/h pendant 7 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 102 fois 7 = 714.
+</think>
+Il parcourt 714 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 4 pommes et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 3 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « green » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais green correspond au français vert.
+</think>
+« green » se traduit par « vert ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 25 crayons et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 25 - 3 = 22.
+</think>
+Il lui en reste 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 71 moins 25 ?
+<|end|>
+<|assistant|>
+<think>
+71 moins 25 = 46.
+</think>
+71 moins 25 font 46.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 112 km/h pendant 8 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 112 fois 8 = 896.
+</think>
+Il parcourt 896 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 11 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 11 = 55.
+</think>
+5 fois 11 font 55.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « apple » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais apple correspond au français pomme.
+</think>
+« apple » se traduit par « pomme ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « table » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais table correspond au français table.
+</think>
+« table » se traduit par « table ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Merci beaucoup
+<|end|>
+<|assistant|>
+<think>
+Il faut accuser réception du remerciement.
+</think>
+Je vous en prie, avec plaisir !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 95 moins 12 ?
+<|end|>
+<|assistant|>
+<think>
+95 moins 12 = 83.
+</think>
+95 moins 12 font 83.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Qui a écrit Les Misérables ?
+<|end|>
+<|assistant|>
+<think>
+Les Misérables est un roman de Victor Hugo.
+</think>
+Les Misérables a été écrit par Victor Hugo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 93 moins 52 ?
+<|end|>
+<|assistant|>
+<think>
+93 moins 52 = 41.
+</think>
+93 moins 52 font 41.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 5 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 5 = 30.
+</think>
+6 fois 5 font 30.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 10 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 10 = 80.
+</think>
+8 fois 10 font 80.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 77 moins 44 ?
+<|end|>
+<|assistant|>
+<think>
+77 moins 44 = 33.
+</think>
+77 moins 44 font 33.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 24 plus 35 ?
+<|end|>
+<|assistant|>
+<think>
+24 plus 35 = 59.
+</think>
+24 plus 35 font 59.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 92 moins 50 ?
+<|end|>
+<|assistant|>
+<think>
+92 moins 50 = 42.
+</think>
+92 moins 50 font 42.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 11 livres et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 11 - 3 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « house » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais house correspond au français maison.
+</think>
+« house » se traduit par « maison ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 6 = 36.
+</think>
+6 fois 6 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 moins 43 ?
+<|end|>
+<|assistant|>
+<think>
+70 moins 43 = 27.
+</think>
+70 moins 43 font 27.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 61 moins 22 ?
+<|end|>
+<|assistant|>
+<think>
+61 moins 22 = 39.
+</think>
+61 moins 22 font 39.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 28 crayons et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 1 = 27.
+</think>
+Il lui en reste 27.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 72 km/h pendant 5 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 72 fois 5 = 360.
+</think>
+Il parcourt 360 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 12 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 12 = 72.
+</think>
+6 fois 12 font 72.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui teste si un nombre est pair.
+<|end|>
+<|assistant|>
+<think>
+Un nombre est pair si son reste modulo deux vaut zéro.
+</think>
+def est_pair(n):
+    return n % 2 == 0
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 81 plus 19 ?
+<|end|>
+<|assistant|>
+<think>
+81 plus 19 = 100.
+</think>
+81 plus 19 font 100.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 93 plus 96 ?
+<|end|>
+<|assistant|>
+<think>
+93 plus 96 = 189.
+</think>
+93 plus 96 font 189.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 17 plus 59 ?
+<|end|>
+<|assistant|>
+<think>
+17 plus 59 = 76.
+</think>
+17 plus 59 font 76.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 2 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 2 = 20.
+</think>
+10 fois 2 font 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « cat » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais cat correspond au français chat.
+</think>
+« cat » se traduit par « chat ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bread » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bread correspond au français pain.
+</think>
+« bread » se traduit par « pain ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 76 moins 18 ?
+<|end|>
+<|assistant|>
+<think>
+76 moins 18 = 58.
+</think>
+76 moins 18 font 58.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 62 plus 33 ?
+<|end|>
+<|assistant|>
+<think>
+62 plus 33 = 95.
+</think>
+62 plus 33 font 95.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 65 plus 53 ?
+<|end|>
+<|assistant|>
+<think>
+65 plus 53 = 118.
+</think>
+65 plus 53 font 118.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 60 pièces et en donne 22. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 60 - 22 = 38.
+</think>
+Il lui en reste 38.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 plus 72 ?
+<|end|>
+<|assistant|>
+<think>
+0 plus 72 = 72.
+</think>
+0 plus 72 font 72.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 40 livres et en donne 38. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 40 - 38 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 plus 5 ?
+<|end|>
+<|assistant|>
+<think>
+3 plus 5 = 8.
+</think>
+3 plus 5 font 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 2 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 2 = 10.
+</think>
+5 fois 2 font 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Qu'est-ce que le langage C ?
+<|end|>
+<|assistant|>
+<think>
+Le langage C est un langage de programmation bas niveau et rapide.
+</think>
+Le langage C est un langage de programmation compilé, rapide et proche du matériel.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 81 plus 42 ?
+<|end|>
+<|assistant|>
+<think>
+81 plus 42 = 123.
+</think>
+81 plus 42 font 123.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chien » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chien se traduit par dog.
+</think>
+« chien » se traduit par « dog ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonjour !
+<|end|>
+<|assistant|>
+<think>
+Il faut répondre poliment à une salutation.
+</think>
+Bonjour ! Comment puis-je vous aider ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 7 pommes et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 3 = 4.
+</think>
+Il lui en reste 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 43 km/h pendant 4 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 43 fois 4 = 172.
+</think>
+Il parcourt 172 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 31 bonbons et en donne 25. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 31 - 25 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 8 = 16.
+</think>
+2 fois 8 font 16.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui additionne deux nombres.
+<|end|>
+<|assistant|>
+<think>
+Il faut renvoyer la somme des deux paramètres.
+</think>
+def add(a, b):
+    return a + b
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 53 pommes et en donne 19. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 53 - 19 = 34.
+</think>
+Il lui en reste 34.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui additionne deux nombres.
+<|end|>
+<|assistant|>
+<think>
+Il faut renvoyer la somme des deux paramètres.
+</think>
+def add(a, b):
+    return a + b
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 27 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 27 fois 9 = 243.
+</think>
+Il parcourt 243 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui renvoie le plus grand élément d'une liste.
+<|end|>
+<|assistant|>
+<think>
+On peut utiliser la fonction intégrée max.
+</think>
+def plus_grand(liste):
+    return max(liste)
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « merci » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot merci se traduit par thank you.
+</think>
+« merci » se traduit par « thank you ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 46 moins 33 ?
+<|end|>
+<|assistant|>
+<think>
+46 moins 33 = 13.
+</think>
+46 moins 33 font 13.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel jour sommes-nous ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la date du jour.
+</think>
+Je n'ai pas accès à la date actuelle. Pouvez-vous me la donner ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 90 moins 14 ?
+<|end|>
+<|assistant|>
+<think>
+90 moins 14 = 76.
+</think>
+90 moins 14 font 76.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 moins 51 ?
+<|end|>
+<|assistant|>
+<think>
+70 moins 51 = 19.
+</think>
+70 moins 51 font 19.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 41 moins 19 ?
+<|end|>
+<|assistant|>
+<think>
+41 moins 19 = 22.
+</think>
+41 moins 19 font 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chat » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chat se traduit par cat.
+</think>
+« chat » se traduit par « cat ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « house » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais house correspond au français maison.
+</think>
+« house » se traduit par « maison ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chat » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chat se traduit par cat.
+</think>
+« chat » se traduit par « cat ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 27 cartes et en donne 23. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 27 - 23 = 4.
+</think>
+Il lui en reste 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le cours du bitcoin maintenant ?
+<|end|>
+<|assistant|>
+<think>
+Je ne dispose pas de données de marché en temps réel.
+</think>
+Je ne peux pas donner le cours actuel. Vérifiez une plateforme de marché.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bird » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bird correspond au français oiseau.
+</think>
+« bird » se traduit par « oiseau ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 45 bonbons et en donne 26. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 45 - 26 = 19.
+</think>
+Il lui en reste 19.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 22 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 22 fois 1 = 22.
+</think>
+Il parcourt 22 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 95 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 95 fois 3 = 285.
+</think>
+Il parcourt 285 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 59 plus 59 ?
+<|end|>
+<|assistant|>
+<think>
+59 plus 59 = 118.
+</think>
+59 plus 59 font 118.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel temps fait-il à Paris ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la météo en direct.
+</think>
+Je n'ai pas accès à la météo en direct. Consultez un service météo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « merci » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot merci se traduit par thank you.
+</think>
+« merci » se traduit par « thank you ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 20 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 20 fois 1 = 20.
+</think>
+Il parcourt 20 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 48 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 48 fois 3 = 144.
+</think>
+Il parcourt 144 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 119 km/h pendant 2 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 119 fois 2 = 238.
+</think>
+Il parcourt 238 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 25 bonbons et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 25 - 2 = 23.
+</think>
+Il lui en reste 23.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 46 plus 10 ?
+<|end|>
+<|assistant|>
+<think>
+46 plus 10 = 56.
+</think>
+46 plus 10 font 56.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 56 plus 90 ?
+<|end|>
+<|assistant|>
+<think>
+56 plus 90 = 146.
+</think>
+56 plus 90 font 146.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 plus 97 ?
+<|end|>
+<|assistant|>
+<think>
+3 plus 97 = 100.
+</think>
+3 plus 97 font 100.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chat » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chat se traduit par cat.
+</think>
+« chat » se traduit par « cat ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 29 plus 13 ?
+<|end|>
+<|assistant|>
+<think>
+29 plus 13 = 42.
+</think>
+29 plus 13 font 42.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 11 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 11 = 44.
+</think>
+4 fois 11 font 44.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 8 = 32.
+</think>
+4 fois 8 font 32.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « ami » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot ami se traduit par friend.
+</think>
+« ami » se traduit par « friend ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+De quelle couleur est le ciel par temps clair ?
+<|end|>
+<|assistant|>
+<think>
+Par temps clair, la lumière diffusée rend le ciel bleu.
+</think>
+Par temps clair, le ciel est bleu.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 fois 1 ?
+<|end|>
+<|assistant|>
+<think>
+0 fois 1 = 0.
+</think>
+0 fois 1 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 72 plus 40 ?
+<|end|>
+<|assistant|>
+<think>
+72 plus 40 = 112.
+</think>
+72 plus 40 font 112.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 78 moins 26 ?
+<|end|>
+<|assistant|>
+<think>
+78 moins 26 = 52.
+</think>
+78 moins 26 font 52.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 51 plus 50 ?
+<|end|>
+<|assistant|>
+<think>
+51 plus 50 = 101.
+</think>
+51 plus 50 font 101.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « thank you » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais thank you correspond au français merci.
+</think>
+« thank you » se traduit par « merci ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 35 moins 3 ?
+<|end|>
+<|assistant|>
+<think>
+35 moins 3 = 32.
+</think>
+35 moins 3 font 32.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 46 moins 18 ?
+<|end|>
+<|assistant|>
+<think>
+46 moins 18 = 28.
+</think>
+46 moins 18 font 28.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 49 stylos et en donne 46. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 49 - 46 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 33 livres et en donne 13. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 33 - 13 = 20.
+</think>
+Il lui en reste 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de continents y a-t-il ?
+<|end|>
+<|assistant|>
+<think>
+On compte généralement sept continents.
+</think>
+Il y a sept continents.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 22 livres et en donne 11. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 22 - 11 = 11.
+</think>
+Il lui en reste 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 38 plus 31 ?
+<|end|>
+<|assistant|>
+<think>
+38 plus 31 = 69.
+</think>
+38 plus 31 font 69.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 17 plus 53 ?
+<|end|>
+<|assistant|>
+<think>
+17 plus 53 = 70.
+</think>
+17 plus 53 font 70.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+0 fois 7 = 0.
+</think>
+0 fois 7 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui additionne deux nombres.
+<|end|>
+<|assistant|>
+<think>
+Il faut renvoyer la somme des deux paramètres.
+</think>
+def add(a, b):
+    return a + b
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 26 plus 56 ?
+<|end|>
+<|assistant|>
+<think>
+26 plus 56 = 82.
+</think>
+26 plus 56 font 82.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 54 stylos et en donne 45. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 54 - 45 = 9.
+</think>
+Il lui en reste 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 41 pièces et en donne 12. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 41 - 12 = 29.
+</think>
+Il lui en reste 29.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Qu'est-ce qu'un réseau de neurones ?
+<|end|>
+<|assistant|>
+<think>
+Un réseau de neurones est un modèle de calcul inspiré du cerveau.
+</think>
+C'est un modèle de calcul composé de neurones artificiels reliés par des poids.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 4 pièces et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 1 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 55 livres et en donne 31. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 55 - 31 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+7 fois 7 = 49.
+</think>
+7 fois 7 font 49.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 100 km/h pendant 7 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 100 fois 7 = 700.
+</think>
+Il parcourt 700 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 42 cartes et en donne 35. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 42 - 35 = 7.
+</think>
+Il lui en reste 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 66 km/h pendant 6 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 66 fois 6 = 396.
+</think>
+Il parcourt 396 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 4 = 32.
+</think>
+8 fois 4 font 32.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 100 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 100 fois 1 = 100.
+</think>
+Il parcourt 100 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 78 plus 96 ?
+<|end|>
+<|assistant|>
+<think>
+78 plus 96 = 174.
+</think>
+78 plus 96 font 174.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 33 plus 34 ?
+<|end|>
+<|assistant|>
+<think>
+33 plus 34 = 67.
+</think>
+33 plus 34 font 67.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 50 plus 15 ?
+<|end|>
+<|assistant|>
+<think>
+50 plus 15 = 65.
+</think>
+50 plus 15 font 65.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 3 = 30.
+</think>
+10 fois 3 font 30.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 42 billes et en donne 39. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 42 - 39 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 27 crayons et en donne 21. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 27 - 21 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui inverse une chaîne.
+<|end|>
+<|assistant|>
+<think>
+Le découpage avec un pas de moins un inverse la chaîne.
+</think>
+def inverse(s):
+    return s[::-1]
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonsoir
+<|end|>
+<|assistant|>
+<think>
+Une salutation du soir. Je réponds de la même façon.
+</think>
+Bonsoir ! Que puis-je faire pour vous ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui renvoie le plus grand élément d'une liste.
+<|end|>
+<|assistant|>
+<think>
+On peut utiliser la fonction intégrée max.
+</think>
+def plus_grand(liste):
+    return max(liste)
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 35 stylos et en donne 28. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 35 - 28 = 7.
+</think>
+Il lui en reste 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 38 moins 2 ?
+<|end|>
+<|assistant|>
+<think>
+38 moins 2 = 36.
+</think>
+38 moins 2 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 19 pièces et en donne 12. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 19 - 12 = 7.
+</think>
+Il lui en reste 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui renvoie le plus grand élément d'une liste.
+<|end|>
+<|assistant|>
+<think>
+On peut utiliser la fonction intégrée max.
+</think>
+def plus_grand(liste):
+    return max(liste)
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 6 pièces et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 6 - 1 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 9 = 27.
+</think>
+3 fois 9 font 27.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 65 plus 60 ?
+<|end|>
+<|assistant|>
+<think>
+65 plus 60 = 125.
+</think>
+65 plus 60 font 125.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 28 km/h pendant 5 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 28 fois 5 = 140.
+</think>
+Il parcourt 140 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 92 plus 20 ?
+<|end|>
+<|assistant|>
+<think>
+92 plus 20 = 112.
+</think>
+92 plus 20 font 112.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « sea » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais sea correspond au français mer.
+</think>
+« sea » se traduit par « mer ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 30 livres et en donne 25. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 30 - 25 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « table » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais table correspond au français table.
+</think>
+« table » se traduit par « table ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Salut, ça va ?
+<|end|>
+<|assistant|>
+<think>
+C'est une question amicale. Je réponds simplement.
+</think>
+Ça va bien, merci ! Et toi ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 11 plus 33 ?
+<|end|>
+<|assistant|>
+<think>
+11 plus 33 = 44.
+</think>
+11 plus 33 font 44.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 88 plus 69 ?
+<|end|>
+<|assistant|>
+<think>
+88 plus 69 = 157.
+</think>
+88 plus 69 font 157.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 55 moins 11 ?
+<|end|>
+<|assistant|>
+<think>
+55 moins 11 = 44.
+</think>
+55 moins 11 font 44.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 32 plus 4 ?
+<|end|>
+<|assistant|>
+<think>
+32 plus 4 = 36.
+</think>
+32 plus 4 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+7 fois 4 = 28.
+</think>
+7 fois 4 font 28.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 3 pommes et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 3 - 1 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 45 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 45 fois 9 = 405.
+</think>
+Il parcourt 405 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la capitale du Canada ?
+<|end|>
+<|assistant|>
+<think>
+Le Canada a pour capitale Ottawa.
+</think>
+La capitale du Canada est Ottawa.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « house » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais house correspond au français maison.
+</think>
+« house » se traduit par « maison ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 68 moins 12 ?
+<|end|>
+<|assistant|>
+<think>
+68 moins 12 = 56.
+</think>
+68 moins 12 font 56.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 9 crayons et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 9 - 2 = 7.
+</think>
+Il lui en reste 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 16 livres et en donne 8. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 16 - 8 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de mois y a-t-il dans une année ?
+<|end|>
+<|assistant|>
+<think>
+Une année compte douze mois.
+</think>
+Une année compte douze mois.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 11 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 11 = 11.
+</think>
+1 fois 11 font 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 54 pommes et en donne 15. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 54 - 15 = 39.
+</think>
+Il lui en reste 39.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 18 crayons et en donne 8. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 18 - 8 = 10.
+</think>
+Il lui en reste 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 7 = 28.
+</think>
+4 fois 7 font 28.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 74 plus 67 ?
+<|end|>
+<|assistant|>
+<think>
+74 plus 67 = 141.
+</think>
+74 plus 67 font 141.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 37 plus 58 ?
+<|end|>
+<|assistant|>
+<think>
+37 plus 58 = 95.
+</think>
+37 plus 58 font 95.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « thank you » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais thank you correspond au français merci.
+</think>
+« thank you » se traduit par « merci ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui inverse une chaîne.
+<|end|>
+<|assistant|>
+<think>
+Le découpage avec un pas de moins un inverse la chaîne.
+</think>
+def inverse(s):
+    return s[::-1]
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 7 = 35.
+</think>
+5 fois 7 font 35.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « soleil » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot soleil se traduit par sun.
+</think>
+« soleil » se traduit par « sun ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 50 moins 50 ?
+<|end|>
+<|assistant|>
+<think>
+50 moins 50 = 0.
+</think>
+50 moins 50 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 101 km/h pendant 6 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 101 fois 6 = 606.
+</think>
+Il parcourt 606 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 40 pommes et en donne 14. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 40 - 14 = 26.
+</think>
+Il lui en reste 26.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 plus 74 ?
+<|end|>
+<|assistant|>
+<think>
+9 plus 74 = 83.
+</think>
+9 plus 74 font 83.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 67 plus 95 ?
+<|end|>
+<|assistant|>
+<think>
+67 plus 95 = 162.
+</think>
+67 plus 95 font 162.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 49 plus 26 ?
+<|end|>
+<|assistant|>
+<think>
+49 plus 26 = 75.
+</think>
+49 plus 26 font 75.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 29 pommes et en donne 23. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 29 - 23 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chien » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chien se traduit par dog.
+</think>
+« chien » se traduit par « dog ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 38 km/h pendant 7 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 38 fois 7 = 266.
+</think>
+Il parcourt 266 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 97 moins 75 ?
+<|end|>
+<|assistant|>
+<think>
+97 moins 75 = 22.
+</think>
+97 moins 75 font 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 4 = 32.
+</think>
+8 fois 4 font 32.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 89 plus 41 ?
+<|end|>
+<|assistant|>
+<think>
+89 plus 41 = 130.
+</think>
+89 plus 41 font 130.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui calcule la factorielle d'un entier.
+<|end|>
+<|assistant|>
+<think>
+La factorielle de n est le produit de 1 à n.
+</think>
+def factorielle(n):
+    r = 1
+    for i in range(2, n + 1):
+        r *= i
+    return r
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 11 moins 8 ?
+<|end|>
+<|assistant|>
+<think>
+11 moins 8 = 3.
+</think>
+11 moins 8 font 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 moins 25 ?
+<|end|>
+<|assistant|>
+<think>
+70 moins 25 = 45.
+</think>
+70 moins 25 font 45.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 2 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 2 = 6.
+</think>
+3 fois 2 font 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 36 pommes et en donne 20. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 36 - 20 = 16.
+</think>
+Il lui en reste 16.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bleu » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot bleu se traduit par blue.
+</think>
+« bleu » se traduit par « blue ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 5 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 5 = 15.
+</think>
+3 fois 5 font 15.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Au revoir
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur prend congé.
+</think>
+Au revoir, à bientôt !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 19 bonbons et en donne 11. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 19 - 11 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 96 moins 16 ?
+<|end|>
+<|assistant|>
+<think>
+96 moins 16 = 80.
+</think>
+96 moins 16 font 80.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 77 plus 0 ?
+<|end|>
+<|assistant|>
+<think>
+77 plus 0 = 77.
+</think>
+77 plus 0 font 77.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel jour sommes-nous ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la date du jour.
+</think>
+Je n'ai pas accès à la date actuelle. Pouvez-vous me la donner ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 fois 5 ?
+<|end|>
+<|assistant|>
+<think>
+9 fois 5 = 45.
+</think>
+9 fois 5 font 45.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « friend » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais friend correspond au français ami.
+</think>
+« friend » se traduit par « ami ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 41 bonbons et en donne 17. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 41 - 17 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 33 plus 36 ?
+<|end|>
+<|assistant|>
+<think>
+33 plus 36 = 69.
+</think>
+33 plus 36 font 69.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 51 plus 94 ?
+<|end|>
+<|assistant|>
+<think>
+51 plus 94 = 145.
+</think>
+51 plus 94 font 145.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « soleil » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot soleil se traduit par sun.
+</think>
+« soleil » se traduit par « sun ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 30 pièces et en donne 8. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 30 - 8 = 22.
+</think>
+Il lui en reste 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 64 km/h pendant 8 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 64 fois 8 = 512.
+</think>
+Il parcourt 512 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 45 plus 93 ?
+<|end|>
+<|assistant|>
+<think>
+45 plus 93 = 138.
+</think>
+45 plus 93 font 138.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel jour sommes-nous ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la date du jour.
+</think>
+Je n'ai pas accès à la date actuelle. Pouvez-vous me la donner ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le cours du bitcoin maintenant ?
+<|end|>
+<|assistant|>
+<think>
+Je ne dispose pas de données de marché en temps réel.
+</think>
+Je ne peux pas donner le cours actuel. Vérifiez une plateforme de marché.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « pomme » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot pomme se traduit par apple.
+</think>
+« pomme » se traduit par « apple ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 21 stylos et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 21 - 1 = 20.
+</think>
+Il lui en reste 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 8 = 48.
+</think>
+6 fois 8 font 48.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 24 crayons et en donne 10. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 24 - 10 = 14.
+</think>
+Il lui en reste 14.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 1 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 1 = 3.
+</think>
+3 fois 1 font 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 42 cartes et en donne 15. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 42 - 15 = 27.
+</think>
+Il lui en reste 27.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 74 plus 50 ?
+<|end|>
+<|assistant|>
+<think>
+74 plus 50 = 124.
+</think>
+74 plus 50 font 124.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 4 cartes et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 1 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de pattes a une araignée ?
+<|end|>
+<|assistant|>
+<think>
+Une araignée est un arachnide à huit pattes.
+</think>
+Une araignée a huit pattes.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Peux-tu te souvenir de notre conversation d'hier ?
+<|end|>
+<|assistant|>
+<think>
+Je ne garde pas de mémoire entre les conversations.
+</think>
+Je ne garde pas de souvenirs d'une conversation à l'autre.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 1 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 1 = 2.
+</think>
+2 fois 1 font 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « eau » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot eau se traduit par water.
+</think>
+« eau » se traduit par « water ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 63 moins 29 ?
+<|end|>
+<|assistant|>
+<think>
+63 moins 29 = 34.
+</think>
+63 moins 29 font 34.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « blue » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais blue correspond au français bleu.
+</think>
+« blue » se traduit par « bleu ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 4 livres et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 2 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 58 pièces et en donne 53. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 58 - 53 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 13 livres et en donne 11. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 13 - 11 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 81 moins 61 ?
+<|end|>
+<|assistant|>
+<think>
+81 moins 61 = 20.
+</think>
+81 moins 61 font 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 67 moins 63 ?
+<|end|>
+<|assistant|>
+<think>
+67 moins 63 = 4.
+</think>
+67 moins 63 font 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « vert » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot vert se traduit par green.
+</think>
+« vert » se traduit par « green ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 34 livres et en donne 15. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 34 - 15 = 19.
+</think>
+Il lui en reste 19.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 25 billes et en donne 17. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 25 - 17 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « ville » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot ville se traduit par city.
+</think>
+« ville » se traduit par « city ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chien » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chien se traduit par dog.
+</think>
+« chien » se traduit par « dog ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 11 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+11 fois 4 = 44.
+</think>
+11 fois 4 font 44.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « oiseau » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot oiseau se traduit par bird.
+</think>
+« oiseau » se traduit par « bird ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 27 moins 7 ?
+<|end|>
+<|assistant|>
+<think>
+27 moins 7 = 20.
+</think>
+27 moins 7 font 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 20 moins 14 ?
+<|end|>
+<|assistant|>
+<think>
+20 moins 14 = 6.
+</think>
+20 moins 14 font 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 2 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 2 = 10.
+</think>
+5 fois 2 font 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 67 plus 90 ?
+<|end|>
+<|assistant|>
+<think>
+67 plus 90 = 157.
+</think>
+67 plus 90 font 157.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « sun » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais sun correspond au français soleil.
+</think>
+« sun » se traduit par « soleil ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+7 fois 6 = 42.
+</think>
+7 fois 6 font 42.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bird » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bird correspond au français oiseau.
+</think>
+« bird » se traduit par « oiseau ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 fois 10 ?
+<|end|>
+<|assistant|>
+<think>
+0 fois 10 = 0.
+</think>
+0 fois 10 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 plus 79 ?
+<|end|>
+<|assistant|>
+<think>
+7 plus 79 = 86.
+</think>
+7 plus 79 font 86.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la capitale de l'Allemagne ?
+<|end|>
+<|assistant|>
+<think>
+L'Allemagne a pour capitale Berlin.
+</think>
+La capitale de l'Allemagne est Berlin.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui calcule la factorielle d'un entier.
+<|end|>
+<|assistant|>
+<think>
+La factorielle de n est le produit de 1 à n.
+</think>
+def factorielle(n):
+    r = 1
+    for i in range(2, n + 1):
+        r *= i
+    return r
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 53 cartes et en donne 31. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 53 - 31 = 22.
+</think>
+Il lui en reste 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 68 moins 65 ?
+<|end|>
+<|assistant|>
+<think>
+68 moins 65 = 3.
+</think>
+68 moins 65 font 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 40 moins 15 ?
+<|end|>
+<|assistant|>
+<think>
+40 moins 15 = 25.
+</think>
+40 moins 15 font 25.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « window » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais window correspond au français fenêtre.
+</think>
+« window » se traduit par « fenêtre ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 26 crayons et en donne 22. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 26 - 22 = 4.
+</think>
+Il lui en reste 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 9 = 9.
+</think>
+1 fois 9 font 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 113 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 113 fois 1 = 113.
+</think>
+Il parcourt 113 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 fois 12 ?
+<|end|>
+<|assistant|>
+<think>
+9 fois 12 = 108.
+</think>
+9 fois 12 font 108.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 97 plus 24 ?
+<|end|>
+<|assistant|>
+<think>
+97 plus 24 = 121.
+</think>
+97 plus 24 font 121.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de jours y a-t-il dans une semaine ?
+<|end|>
+<|assistant|>
+<think>
+Une semaine compte sept jours.
+</think>
+Une semaine compte sept jours.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle planète est la plus proche du Soleil ?
+<|end|>
+<|assistant|>
+<think>
+Mercure est la planète la plus proche du Soleil.
+</think>
+La planète la plus proche du Soleil est Mercure.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+9 fois 7 = 63.
+</think>
+9 fois 7 font 63.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel jour sommes-nous ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la date du jour.
+</think>
+Je n'ai pas accès à la date actuelle. Pouvez-vous me la donner ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 plus 33 ?
+<|end|>
+<|assistant|>
+<think>
+9 plus 33 = 42.
+</think>
+9 plus 33 font 42.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « chien » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot chien se traduit par dog.
+</think>
+« chien » se traduit par « dog ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « hello » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais hello correspond au français bonjour.
+</think>
+« hello » se traduit par « bonjour ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 19 plus 10 ?
+<|end|>
+<|assistant|>
+<think>
+19 plus 10 = 29.
+</think>
+19 plus 10 font 29.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 62 moins 59 ?
+<|end|>
+<|assistant|>
+<think>
+62 moins 59 = 3.
+</think>
+62 moins 59 font 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 58 moins 1 ?
+<|end|>
+<|assistant|>
+<think>
+58 moins 1 = 57.
+</think>
+58 moins 1 font 57.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 34 plus 44 ?
+<|end|>
+<|assistant|>
+<think>
+34 plus 44 = 78.
+</think>
+34 plus 44 font 78.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 28 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 28 fois 3 = 84.
+</think>
+Il parcourt 84 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 30 crayons et en donne 29. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 30 - 29 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « ami » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot ami se traduit par friend.
+</think>
+« ami » se traduit par « friend ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 4 livres et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 2 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « mountain » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais mountain correspond au français montagne.
+</think>
+« mountain » se traduit par « montagne ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 48 livres et en donne 13. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 48 - 13 = 35.
+</think>
+Il lui en reste 35.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 64 moins 26 ?
+<|end|>
+<|assistant|>
+<think>
+64 moins 26 = 38.
+</think>
+64 moins 26 font 38.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+9 fois 4 = 36.
+</think>
+9 fois 4 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 6 = 60.
+</think>
+10 fois 6 font 60.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 6 = 12.
+</think>
+2 fois 6 font 12.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 28 billes et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 4 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 41 stylos et en donne 6. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 41 - 6 = 35.
+</think>
+Il lui en reste 35.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 52 km/h pendant 5 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 52 fois 5 = 260.
+</think>
+Il parcourt 260 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 plus 34 ?
+<|end|>
+<|assistant|>
+<think>
+9 plus 34 = 43.
+</think>
+9 plus 34 font 43.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 6 = 12.
+</think>
+2 fois 6 font 12.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 62 plus 53 ?
+<|end|>
+<|assistant|>
+<think>
+62 plus 53 = 115.
+</think>
+62 plus 53 font 115.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel temps fait-il à Paris ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la météo en direct.
+</think>
+Je n'ai pas accès à la météo en direct. Consultez un service météo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 plus 61 ?
+<|end|>
+<|assistant|>
+<think>
+1 plus 61 = 62.
+</think>
+1 plus 61 font 62.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « door » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais door correspond au français porte.
+</think>
+« door » se traduit par « porte ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 plus 60 ?
+<|end|>
+<|assistant|>
+<think>
+10 plus 60 = 70.
+</think>
+10 plus 60 font 70.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la capitale du Japon ?
+<|end|>
+<|assistant|>
+<think>
+Le Japon a pour capitale Tokyo.
+</think>
+La capitale du Japon est Tokyo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 10 stylos et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 10 - 1 = 9.
+</think>
+Il lui en reste 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 22 stylos et en donne 21. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 22 - 21 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de minutes y a-t-il dans une heure ?
+<|end|>
+<|assistant|>
+<think>
+Une heure fait soixante minutes.
+</think>
+Une heure compte soixante minutes.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 28 billes et en donne 16. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 16 = 12.
+</think>
+Il lui en reste 12.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 85 moins 10 ?
+<|end|>
+<|assistant|>
+<think>
+85 moins 10 = 75.
+</think>
+85 moins 10 font 75.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « merci » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot merci se traduit par thank you.
+</think>
+« merci » se traduit par « thank you ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 47 pommes et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 47 - 4 = 43.
+</think>
+Il lui en reste 43.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonsoir
+<|end|>
+<|assistant|>
+<think>
+Une salutation du soir. Je réponds de la même façon.
+</think>
+Bonsoir ! Que puis-je faire pour vous ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 21 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 21 fois 1 = 21.
+</think>
+Il parcourt 21 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 1 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 1 = 3.
+</think>
+3 fois 1 font 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 88 km/h pendant 4 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 88 fois 4 = 352.
+</think>
+Il parcourt 352 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 fois 5 ?
+<|end|>
+<|assistant|>
+<think>
+7 fois 5 = 35.
+</think>
+7 fois 5 font 35.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « green » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais green correspond au français vert.
+</think>
+« green » se traduit par « vert ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonjour !
+<|end|>
+<|assistant|>
+<think>
+Il faut répondre poliment à une salutation.
+</think>
+Bonjour ! Comment puis-je vous aider ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 50 pommes et en donne 33. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 50 - 33 = 17.
+</think>
+Il lui en reste 17.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 10 crayons et en donne 9. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 10 - 9 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 9 = 45.
+</think>
+5 fois 9 font 45.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 29 plus 43 ?
+<|end|>
+<|assistant|>
+<think>
+29 plus 43 = 72.
+</think>
+29 plus 43 font 72.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 77 plus 9 ?
+<|end|>
+<|assistant|>
+<think>
+77 plus 9 = 86.
+</think>
+77 plus 9 font 86.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « école » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot école se traduit par school.
+</think>
+« école » se traduit par « school ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 9 = 9.
+</think>
+1 fois 9 font 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 3 = 30.
+</think>
+10 fois 3 font 30.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 51 plus 95 ?
+<|end|>
+<|assistant|>
+<think>
+51 plus 95 = 146.
+</think>
+51 plus 95 font 146.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Tu peux m'aider ?
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur demande de l'aide. Je propose mon aide.
+</think>
+Bien sûr, dites-moi ce dont vous avez besoin.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 20 stylos et en donne 9. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 20 - 9 = 11.
+</think>
+Il lui en reste 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 114 km/h pendant 6 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 114 fois 6 = 684.
+</think>
+Il parcourt 684 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 12 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 12 = 72.
+</think>
+6 fois 12 font 72.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 4 = 16.
+</think>
+4 fois 4 font 16.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Qu'est-ce qu'un modèle de langage ?
+<|end|>
+<|assistant|>
+<think>
+Un modèle de langage prédit le prochain mot ou caractère d'un texte.
+</think>
+Un modèle de langage prédit la suite d'un texte à partir de ce qui le précède.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 43 moins 36 ?
+<|end|>
+<|assistant|>
+<think>
+43 moins 36 = 7.
+</think>
+43 moins 36 font 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 25 crayons et en donne 8. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 25 - 8 = 17.
+</think>
+Il lui en reste 17.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 85 km/h pendant 5 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 85 fois 5 = 425.
+</think>
+Il parcourt 425 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 59 bonbons et en donne 40. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 59 - 40 = 19.
+</think>
+Il lui en reste 19.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « lune » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot lune se traduit par moon.
+</think>
+« lune » se traduit par « moon ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+3 fois 0 = 0.
+</think>
+3 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 28 bonbons et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 4 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 7 pièces et en donne 5. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 5 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 113 km/h pendant 8 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 113 fois 8 = 904.
+</think>
+Il parcourt 904 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 4 = 40.
+</think>
+10 fois 4 font 40.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 plus 85 ?
+<|end|>
+<|assistant|>
+<think>
+9 plus 85 = 94.
+</think>
+9 plus 85 font 94.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 82 moins 36 ?
+<|end|>
+<|assistant|>
+<think>
+82 moins 36 = 46.
+</think>
+82 moins 36 font 46.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 20 km/h pendant 6 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 20 fois 6 = 120.
+</think>
+Il parcourt 120 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 58 km/h pendant 2 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 58 fois 2 = 116.
+</think>
+Il parcourt 116 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 8 = 48.
+</think>
+6 fois 8 font 48.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le cours du bitcoin maintenant ?
+<|end|>
+<|assistant|>
+<think>
+Je ne dispose pas de données de marché en temps réel.
+</think>
+Je ne peux pas donner le cours actuel. Vérifiez une plateforme de marché.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 28 pommes et en donne 23. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 23 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 plus 70 ?
+<|end|>
+<|assistant|>
+<think>
+6 plus 70 = 76.
+</think>
+6 plus 70 font 76.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 plus 35 ?
+<|end|>
+<|assistant|>
+<think>
+6 plus 35 = 41.
+</think>
+6 plus 35 font 41.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 40 crayons et en donne 30. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 40 - 30 = 10.
+</think>
+Il lui en reste 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 27 livres et en donne 24. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 27 - 24 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « table » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais table correspond au français table.
+</think>
+« table » se traduit par « table ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 97 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 97 fois 9 = 873.
+</think>
+Il parcourt 873 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 78 plus 3 ?
+<|end|>
+<|assistant|>
+<think>
+78 plus 3 = 81.
+</think>
+78 plus 3 font 81.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 35 pièces et en donne 16. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 35 - 16 = 19.
+</think>
+Il lui en reste 19.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 68 moins 12 ?
+<|end|>
+<|assistant|>
+<think>
+68 moins 12 = 56.
+</think>
+68 moins 12 font 56.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 64 moins 57 ?
+<|end|>
+<|assistant|>
+<think>
+64 moins 57 = 7.
+</think>
+64 moins 57 font 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 21 moins 10 ?
+<|end|>
+<|assistant|>
+<think>
+21 moins 10 = 11.
+</think>
+21 moins 10 font 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 44 pommes et en donne 21. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 44 - 21 = 23.
+</think>
+Il lui en reste 23.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de côtés a un triangle ?
+<|end|>
+<|assistant|>
+<think>
+Un triangle a trois côtés.
+</think>
+Un triangle a trois côtés.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui calcule la factorielle d'un entier.
+<|end|>
+<|assistant|>
+<think>
+La factorielle de n est le produit de 1 à n.
+</think>
+def factorielle(n):
+    r = 1
+    for i in range(2, n + 1):
+        r *= i
+    return r
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 3 plus 32 ?
+<|end|>
+<|assistant|>
+<think>
+3 plus 32 = 35.
+</think>
+3 plus 32 font 35.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 plus 33 ?
+<|end|>
+<|assistant|>
+<think>
+8 plus 33 = 41.
+</think>
+8 plus 33 font 41.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 27 livres et en donne 25. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 27 - 25 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 57 km/h pendant 7 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 57 fois 7 = 399.
+</think>
+Il parcourt 399 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonsoir
+<|end|>
+<|assistant|>
+<think>
+Une salutation du soir. Je réponds de la même façon.
+</think>
+Bonsoir ! Que puis-je faire pour vous ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 62 plus 75 ?
+<|end|>
+<|assistant|>
+<think>
+62 plus 75 = 137.
+</think>
+62 plus 75 font 137.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 2 cartes et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 2 - 1 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 4 crayons et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 2 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 25 plus 43 ?
+<|end|>
+<|assistant|>
+<think>
+25 plus 43 = 68.
+</think>
+25 plus 43 font 68.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui teste si un nombre est pair.
+<|end|>
+<|assistant|>
+<think>
+Un nombre est pair si son reste modulo deux vaut zéro.
+</think>
+def est_pair(n):
+    return n % 2 == 0
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 94 moins 60 ?
+<|end|>
+<|assistant|>
+<think>
+94 moins 60 = 34.
+</think>
+94 moins 60 font 34.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 8 = 48.
+</think>
+6 fois 8 font 48.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 6 billes et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 6 - 2 = 4.
+</think>
+Il lui en reste 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 58 plus 23 ?
+<|end|>
+<|assistant|>
+<think>
+58 plus 23 = 81.
+</think>
+58 plus 23 font 81.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 50 plus 3 ?
+<|end|>
+<|assistant|>
+<think>
+50 plus 3 = 53.
+</think>
+50 plus 3 font 53.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le plus petit nombre premier ?
+<|end|>
+<|assistant|>
+<think>
+Le nombre premier le plus petit est deux.
+</think>
+Le plus petit nombre premier est 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 9 = 72.
+</think>
+8 fois 9 font 72.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 46 moins 21 ?
+<|end|>
+<|assistant|>
+<think>
+46 moins 21 = 25.
+</think>
+46 moins 21 font 25.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 28 pièces et en donne 22. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 22 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « table » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot table se traduit par table.
+</think>
+« table » se traduit par « table ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 42 pommes et en donne 27. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 42 - 27 = 15.
+</think>
+Il lui en reste 15.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bird » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bird correspond au français oiseau.
+</think>
+« bird » se traduit par « oiseau ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 66 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 66 fois 1 = 66.
+</think>
+Il parcourt 66 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 39 livres et en donne 17. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 39 - 17 = 22.
+</think>
+Il lui en reste 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 78 moins 14 ?
+<|end|>
+<|assistant|>
+<think>
+78 moins 14 = 64.
+</think>
+78 moins 14 font 64.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bonjour » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot bonjour se traduit par hello.
+</think>
+« bonjour » se traduit par « hello ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « arbre » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot arbre se traduit par tree.
+</think>
+« arbre » se traduit par « tree ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 11 livres et en donne 5. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 11 - 5 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 72 plus 15 ?
+<|end|>
+<|assistant|>
+<think>
+72 plus 15 = 87.
+</think>
+72 plus 15 font 87.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 40 pommes et en donne 10. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 40 - 10 = 30.
+</think>
+Il lui en reste 30.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 105 km/h pendant 5 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 105 fois 5 = 525.
+</think>
+Il parcourt 525 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 0 = 0.
+</think>
+4 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 21 crayons et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 21 - 1 = 20.
+</think>
+Il lui en reste 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 97 moins 67 ?
+<|end|>
+<|assistant|>
+<think>
+97 moins 67 = 30.
+</think>
+97 moins 67 font 30.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 6 = 60.
+</think>
+10 fois 6 font 60.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 46 pommes et en donne 22. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 46 - 22 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 48 billes et en donne 21. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 48 - 21 = 27.
+</think>
+Il lui en reste 27.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 74 moins 63 ?
+<|end|>
+<|assistant|>
+<think>
+74 moins 63 = 11.
+</think>
+74 moins 63 font 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 12 fois 11 ?
+<|end|>
+<|assistant|>
+<think>
+12 fois 11 = 132.
+</think>
+12 fois 11 font 132.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 104 km/h pendant 4 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 104 fois 4 = 416.
+</think>
+Il parcourt 416 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 66 moins 25 ?
+<|end|>
+<|assistant|>
+<think>
+66 moins 25 = 41.
+</think>
+66 moins 25 font 41.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « table » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais table correspond au français table.
+</think>
+« table » se traduit par « table ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 6 bonbons et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 6 - 4 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+6 fois 3 = 18.
+</think>
+6 fois 3 font 18.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bread » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bread correspond au français pain.
+</think>
+« bread » se traduit par « pain ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 47 pièces et en donne 30. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 47 - 30 = 17.
+</think>
+Il lui en reste 17.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 7 = 28.
+</think>
+4 fois 7 font 28.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « city » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais city correspond au français ville.
+</think>
+« city » se traduit par « ville ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 3 = 15.
+</think>
+5 fois 3 font 15.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel jour sommes-nous ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la date du jour.
+</think>
+Je n'ai pas accès à la date actuelle. Pouvez-vous me la donner ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Que signifie l'acronyme CPU ?
+<|end|>
+<|assistant|>
+<think>
+CPU signifie processeur central en français.
+</think>
+CPU signifie « Central Processing Unit », soit processeur.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bonsoir » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot bonsoir se traduit par good evening.
+</think>
+« bonsoir » se traduit par « good evening ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 56 moins 50 ?
+<|end|>
+<|assistant|>
+<think>
+56 moins 50 = 6.
+</think>
+56 moins 50 font 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 42 plus 48 ?
+<|end|>
+<|assistant|>
+<think>
+42 plus 48 = 90.
+</think>
+42 plus 48 font 90.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 99 moins 23 ?
+<|end|>
+<|assistant|>
+<think>
+99 moins 23 = 76.
+</think>
+99 moins 23 font 76.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 40 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 40 fois 3 = 120.
+</think>
+Il parcourt 120 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 83 plus 6 ?
+<|end|>
+<|assistant|>
+<think>
+83 plus 6 = 89.
+</think>
+83 plus 6 font 89.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 98 moins 47 ?
+<|end|>
+<|assistant|>
+<think>
+98 moins 47 = 51.
+</think>
+98 moins 47 font 51.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 9 = 18.
+</think>
+2 fois 9 font 18.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 4 livres et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 4 - 2 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 86 moins 27 ?
+<|end|>
+<|assistant|>
+<think>
+86 moins 27 = 59.
+</think>
+86 moins 27 font 59.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « hello » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais hello correspond au français bonjour.
+</think>
+« hello » se traduit par « bonjour ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 41 cartes et en donne 20. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 41 - 20 = 21.
+</think>
+Il lui en reste 21.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 92 moins 41 ?
+<|end|>
+<|assistant|>
+<think>
+92 moins 41 = 51.
+</think>
+92 moins 41 font 51.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 2 livres et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 2 - 1 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 0 = 0.
+</think>
+5 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+7 fois 8 = 56.
+</think>
+7 fois 8 font 56.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 52 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 52 fois 9 = 468.
+</think>
+Il parcourt 468 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 plus 39 ?
+<|end|>
+<|assistant|>
+<think>
+4 plus 39 = 43.
+</think>
+4 plus 39 font 43.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « window » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais window correspond au français fenêtre.
+</think>
+« window » se traduit par « fenêtre ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 37 pièces et en donne 34. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 37 - 34 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 60 plus 15 ?
+<|end|>
+<|assistant|>
+<think>
+60 plus 15 = 75.
+</think>
+60 plus 15 font 75.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 41 pièces et en donne 16. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 41 - 16 = 25.
+</think>
+Il lui en reste 25.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Qu'est-ce que l'eau bout à 100 degrés Celsius ?
+<|end|>
+<|assistant|>
+<think>
+À pression normale, l'eau bout à cent degrés Celsius.
+</think>
+À pression normale, l'eau bout à 100 degrés Celsius.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 10 livres et en donne 8. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 10 - 8 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 81 moins 11 ?
+<|end|>
+<|assistant|>
+<think>
+81 moins 11 = 70.
+</think>
+81 moins 11 font 70.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Merci beaucoup
+<|end|>
+<|assistant|>
+<think>
+Il faut accuser réception du remerciement.
+</think>
+Je vous en prie, avec plaisir !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le contraire de chaud ?
+<|end|>
+<|assistant|>
+<think>
+Le contraire de chaud est froid.
+</think>
+Le contraire de chaud est froid.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 46 km/h pendant 6 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 46 fois 6 = 276.
+</think>
+Il parcourt 276 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 117 km/h pendant 2 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 117 fois 2 = 234.
+</think>
+Il parcourt 234 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « oiseau » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot oiseau se traduit par bird.
+</think>
+« oiseau » se traduit par « bird ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « thank you » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais thank you correspond au français merci.
+</think>
+« thank you » se traduit par « merci ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 60 pièces et en donne 24. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 60 - 24 = 36.
+</think>
+Il lui en reste 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 98 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 98 fois 3 = 294.
+</think>
+Il parcourt 294 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 12 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 12 = 96.
+</think>
+8 fois 12 font 96.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 73 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 73 fois 9 = 657.
+</think>
+Il parcourt 657 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+0 fois 3 = 0.
+</think>
+0 fois 3 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 5 bonbons et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 5 - 4 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le contraire de grand ?
+<|end|>
+<|assistant|>
+<think>
+Le contraire de grand est petit.
+</think>
+Le contraire de grand est petit.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 29 cartes et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 29 - 4 = 25.
+</think>
+Il lui en reste 25.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 49 plus 75 ?
+<|end|>
+<|assistant|>
+<think>
+49 plus 75 = 124.
+</think>
+49 plus 75 font 124.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 1 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 1 = 10.
+</think>
+10 fois 1 font 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 52 bonbons et en donne 51. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 52 - 51 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le plus grand océan ?
+<|end|>
+<|assistant|>
+<think>
+Le plus grand océan est le Pacifique.
+</think>
+Le plus grand océan est le Pacifique.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la capitale de l'Espagne ?
+<|end|>
+<|assistant|>
+<think>
+L'Espagne a pour capitale Madrid.
+</think>
+La capitale de l'Espagne est Madrid.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 59 plus 45 ?
+<|end|>
+<|assistant|>
+<think>
+59 plus 45 = 104.
+</think>
+59 plus 45 font 104.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Que mange habituellement une vache ?
+<|end|>
+<|assistant|>
+<think>
+Une vache est herbivore.
+</think>
+Une vache mange surtout de l'herbe et du foin.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 61 plus 39 ?
+<|end|>
+<|assistant|>
+<think>
+61 plus 39 = 100.
+</think>
+61 plus 39 font 100.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 29 moins 13 ?
+<|end|>
+<|assistant|>
+<think>
+29 moins 13 = 16.
+</think>
+29 moins 13 font 16.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « livre » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot livre se traduit par book.
+</think>
+« livre » se traduit par « book ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Au revoir
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur prend congé.
+</think>
+Au revoir, à bientôt !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bread » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bread correspond au français pain.
+</think>
+« bread » se traduit par « pain ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Peux-tu te souvenir de notre conversation d'hier ?
+<|end|>
+<|assistant|>
+<think>
+Je ne garde pas de mémoire entre les conversations.
+</think>
+Je ne garde pas de souvenirs d'une conversation à l'autre.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Peux-tu te souvenir de notre conversation d'hier ?
+<|end|>
+<|assistant|>
+<think>
+Je ne garde pas de mémoire entre les conversations.
+</think>
+Je ne garde pas de souvenirs d'une conversation à l'autre.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Peux-tu te souvenir de notre conversation d'hier ?
+<|end|>
+<|assistant|>
+<think>
+Je ne garde pas de mémoire entre les conversations.
+</think>
+Je ne garde pas de souvenirs d'une conversation à l'autre.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 11 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 11 = 11.
+</think>
+1 fois 11 font 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel temps fait-il à Paris ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la météo en direct.
+</think>
+Je n'ai pas accès à la météo en direct. Consultez un service météo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 79 plus 16 ?
+<|end|>
+<|assistant|>
+<think>
+79 plus 16 = 95.
+</think>
+79 plus 16 font 95.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 7 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 7 = 56.
+</think>
+8 fois 7 font 56.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 7 plus 24 ?
+<|end|>
+<|assistant|>
+<think>
+7 plus 24 = 31.
+</think>
+7 plus 24 font 31.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 53 moins 25 ?
+<|end|>
+<|assistant|>
+<think>
+53 moins 25 = 28.
+</think>
+53 moins 25 font 28.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 27 cartes et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 27 - 2 = 25.
+</think>
+Il lui en reste 25.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 plus 41 ?
+<|end|>
+<|assistant|>
+<think>
+70 plus 41 = 111.
+</think>
+70 plus 41 font 111.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 40 pièces et en donne 17. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 40 - 17 = 23.
+</think>
+Il lui en reste 23.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 21 pommes et en donne 19. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 21 - 19 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 33 cartes et en donne 12. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 33 - 12 = 21.
+</think>
+Il lui en reste 21.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 79 plus 72 ?
+<|end|>
+<|assistant|>
+<think>
+79 plus 72 = 151.
+</think>
+79 plus 72 font 151.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 11 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+11 fois 4 = 44.
+</think>
+11 fois 4 font 44.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 16 plus 94 ?
+<|end|>
+<|assistant|>
+<think>
+16 plus 94 = 110.
+</think>
+16 plus 94 font 110.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 plus 54 ?
+<|end|>
+<|assistant|>
+<think>
+70 plus 54 = 124.
+</think>
+70 plus 54 font 124.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 0 = 0.
+</think>
+1 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 8 = 64.
+</think>
+8 fois 8 font 64.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 12 fois 8 ?
+<|end|>
+<|assistant|>
+<think>
+12 fois 8 = 96.
+</think>
+12 fois 8 font 96.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 65 plus 8 ?
+<|end|>
+<|assistant|>
+<think>
+65 plus 8 = 73.
+</think>
+65 plus 8 font 73.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Merci beaucoup
+<|end|>
+<|assistant|>
+<think>
+Il faut accuser réception du remerciement.
+</think>
+Je vous en prie, avec plaisir !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 9 = 45.
+</think>
+5 fois 9 font 45.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 28 livres et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 3 = 25.
+</think>
+Il lui en reste 25.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 45 plus 23 ?
+<|end|>
+<|assistant|>
+<think>
+45 plus 23 = 68.
+</think>
+45 plus 23 font 68.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 49 livres et en donne 5. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 49 - 5 = 44.
+</think>
+Il lui en reste 44.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 24 crayons et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 24 - 4 = 20.
+</think>
+Il lui en reste 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 81 moins 19 ?
+<|end|>
+<|assistant|>
+<think>
+81 moins 19 = 62.
+</think>
+81 moins 19 font 62.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 45 cartes et en donne 15. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 45 - 15 = 30.
+</think>
+Il lui en reste 30.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la capitale de l'Italie ?
+<|end|>
+<|assistant|>
+<think>
+L'Italie a pour capitale Rome.
+</think>
+La capitale de l'Italie est Rome.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel temps fait-il à Paris ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la météo en direct.
+</think>
+Je n'ai pas accès à la météo en direct. Consultez un service météo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 16 plus 3 ?
+<|end|>
+<|assistant|>
+<think>
+16 plus 3 = 19.
+</think>
+16 plus 3 font 19.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 28 bonbons et en donne 22. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 28 - 22 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Peux-tu te souvenir de notre conversation d'hier ?
+<|end|>
+<|assistant|>
+<think>
+Je ne garde pas de mémoire entre les conversations.
+</think>
+Je ne garde pas de souvenirs d'une conversation à l'autre.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « table » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot table se traduit par table.
+</think>
+« table » se traduit par « table ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 34 pièces et en donne 29. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 34 - 29 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 48 moins 9 ?
+<|end|>
+<|assistant|>
+<think>
+48 moins 9 = 39.
+</think>
+48 moins 9 font 39.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Tu peux m'aider ?
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur demande de l'aide. Je propose mon aide.
+</think>
+Bien sûr, dites-moi ce dont vous avez besoin.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 19 crayons et en donne 11. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 19 - 11 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 80 plus 29 ?
+<|end|>
+<|assistant|>
+<think>
+80 plus 29 = 109.
+</think>
+80 plus 29 font 109.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 86 km/h pendant 6 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 86 fois 6 = 516.
+</think>
+Il parcourt 516 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 67 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 67 fois 3 = 201.
+</think>
+Il parcourt 201 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 37 pièces et en donne 35. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 37 - 35 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 fois 9 ?
+<|end|>
+<|assistant|>
+<think>
+0 fois 9 = 0.
+</think>
+0 fois 9 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 7 livres et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 2 = 5.
+</think>
+Il lui en reste 5.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonjour !
+<|end|>
+<|assistant|>
+<think>
+Il faut répondre poliment à une salutation.
+</think>
+Bonjour ! Comment puis-je vous aider ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 26 billes et en donne 16. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 26 - 16 = 10.
+</think>
+Il lui en reste 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Merci beaucoup
+<|end|>
+<|assistant|>
+<think>
+Il faut accuser réception du remerciement.
+</think>
+Je vous en prie, avec plaisir !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 52 pommes et en donne 9. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 52 - 9 = 43.
+</think>
+Il lui en reste 43.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 38 plus 93 ?
+<|end|>
+<|assistant|>
+<think>
+38 plus 93 = 131.
+</think>
+38 plus 93 font 131.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 50 stylos et en donne 19. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 50 - 19 = 31.
+</think>
+Il lui en reste 31.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « cat » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais cat correspond au français chat.
+</think>
+« cat » se traduit par « chat ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 94 moins 6 ?
+<|end|>
+<|assistant|>
+<think>
+94 moins 6 = 88.
+</think>
+94 moins 6 font 88.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 34 plus 57 ?
+<|end|>
+<|assistant|>
+<think>
+34 plus 57 = 91.
+</think>
+34 plus 57 font 91.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 49 pommes et en donne 27. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 49 - 27 = 22.
+</think>
+Il lui en reste 22.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 37 plus 64 ?
+<|end|>
+<|assistant|>
+<think>
+37 plus 64 = 101.
+</think>
+37 plus 64 font 101.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « arbre » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot arbre se traduit par tree.
+</think>
+« arbre » se traduit par « tree ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « pomme » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot pomme se traduit par apple.
+</think>
+« pomme » se traduit par « apple ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 94 km/h pendant 2 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 94 fois 2 = 188.
+</think>
+Il parcourt 188 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 35 cartes et en donne 11. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 35 - 11 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le cours du bitcoin maintenant ?
+<|end|>
+<|assistant|>
+<think>
+Je ne dispose pas de données de marché en temps réel.
+</think>
+Je ne peux pas donner le cours actuel. Vérifiez une plateforme de marché.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de côtés a un carré ?
+<|end|>
+<|assistant|>
+<think>
+Un carré a quatre côtés égaux.
+</think>
+Un carré a quatre côtés égaux.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 43 pommes et en donne 20. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 43 - 20 = 23.
+</think>
+Il lui en reste 23.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 85 plus 38 ?
+<|end|>
+<|assistant|>
+<think>
+85 plus 38 = 123.
+</think>
+85 plus 38 font 123.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 89 plus 99 ?
+<|end|>
+<|assistant|>
+<think>
+89 plus 99 = 188.
+</think>
+89 plus 99 font 188.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 67 plus 65 ?
+<|end|>
+<|assistant|>
+<think>
+67 plus 65 = 132.
+</think>
+67 plus 65 font 132.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « moon » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais moon correspond au français lune.
+</think>
+« moon » se traduit par « lune ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 9 stylos et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 9 - 1 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 4 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 4 = 8.
+</think>
+2 fois 4 font 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui teste si un nombre est pair.
+<|end|>
+<|assistant|>
+<think>
+Un nombre est pair si son reste modulo deux vaut zéro.
+</think>
+def est_pair(n):
+    return n % 2 == 0
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 0 fois 6 ?
+<|end|>
+<|assistant|>
+<think>
+0 fois 6 = 0.
+</think>
+0 fois 6 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 36 km/h pendant 8 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 36 fois 8 = 288.
+</think>
+Il parcourt 288 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 73 moins 10 ?
+<|end|>
+<|assistant|>
+<think>
+73 moins 10 = 63.
+</think>
+73 moins 10 font 63.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « fenêtre » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot fenêtre se traduit par window.
+</think>
+« fenêtre » se traduit par « window ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « good evening » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais good evening correspond au français bonsoir.
+</think>
+« good evening » se traduit par « bonsoir ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 77 km/h pendant 2 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 77 fois 2 = 154.
+</think>
+Il parcourt 154 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 51 plus 83 ?
+<|end|>
+<|assistant|>
+<think>
+51 plus 83 = 134.
+</think>
+51 plus 83 font 134.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 67 plus 97 ?
+<|end|>
+<|assistant|>
+<think>
+67 plus 97 = 164.
+</think>
+67 plus 97 font 164.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 42 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 42 fois 1 = 42.
+</think>
+Il parcourt 42 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « moon » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais moon correspond au français lune.
+</think>
+« moon » se traduit par « lune ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 99 km/h pendant 8 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 99 fois 8 = 792.
+</think>
+Il parcourt 792 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 55 plus 24 ?
+<|end|>
+<|assistant|>
+<think>
+55 plus 24 = 79.
+</think>
+55 plus 24 font 79.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 49 crayons et en donne 34. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 49 - 34 = 15.
+</think>
+Il lui en reste 15.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 60 stylos et en donne 28. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 60 - 28 = 32.
+</think>
+Il lui en reste 32.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 51 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 51 fois 3 = 153.
+</think>
+Il parcourt 153 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « rouge » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot rouge se traduit par red.
+</think>
+« rouge » se traduit par « red ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 54 plus 9 ?
+<|end|>
+<|assistant|>
+<think>
+54 plus 9 = 63.
+</think>
+54 plus 9 font 63.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 31 plus 64 ?
+<|end|>
+<|assistant|>
+<think>
+31 plus 64 = 95.
+</think>
+31 plus 64 font 95.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « mer » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot mer se traduit par sea.
+</think>
+« mer » se traduit par « sea ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 53 moins 44 ?
+<|end|>
+<|assistant|>
+<think>
+53 moins 44 = 9.
+</think>
+53 moins 44 font 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 21 km/h pendant 4 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 21 fois 4 = 84.
+</think>
+Il parcourt 84 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 97 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 97 fois 9 = 873.
+</think>
+Il parcourt 873 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 1 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+1 fois 0 = 0.
+</think>
+1 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 plus 30 ?
+<|end|>
+<|assistant|>
+<think>
+8 plus 30 = 38.
+</think>
+8 plus 30 font 38.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 115 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 115 fois 1 = 115.
+</think>
+Il parcourt 115 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Tu peux m'aider ?
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur demande de l'aide. Je propose mon aide.
+</think>
+Bien sûr, dites-moi ce dont vous avez besoin.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 86 moins 33 ?
+<|end|>
+<|assistant|>
+<think>
+86 moins 33 = 53.
+</think>
+86 moins 33 font 53.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 93 moins 57 ?
+<|end|>
+<|assistant|>
+<think>
+93 moins 57 = 36.
+</think>
+93 moins 57 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Salut, ça va ?
+<|end|>
+<|assistant|>
+<think>
+C'est une question amicale. Je réponds simplement.
+</think>
+Ça va bien, merci ! Et toi ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 21 pommes et en donne 13. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 21 - 13 = 8.
+</think>
+Il lui en reste 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « bird » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais bird correspond au français oiseau.
+</think>
+« bird » se traduit par « oiseau ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 4 fois 5 ?
+<|end|>
+<|assistant|>
+<think>
+4 fois 5 = 20.
+</think>
+4 fois 5 font 20.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 40 km/h pendant 1 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 40 fois 1 = 40.
+</think>
+Il parcourt 40 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 76 km/h pendant 4 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 76 fois 4 = 304.
+</think>
+Il parcourt 304 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 2 fois 1 ?
+<|end|>
+<|assistant|>
+<think>
+2 fois 1 = 2.
+</think>
+2 fois 1 font 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Tu peux m'aider ?
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur demande de l'aide. Je propose mon aide.
+</think>
+Bien sûr, dites-moi ce dont vous avez besoin.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « vert » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot vert se traduit par green.
+</think>
+« vert » se traduit par « green ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 59 bonbons et en donne 25. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 59 - 25 = 34.
+</think>
+Il lui en reste 34.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel temps fait-il à Paris ?
+<|end|>
+<|assistant|>
+<think>
+Je n'ai pas accès à la météo en direct.
+</think>
+Je n'ai pas accès à la météo en direct. Consultez un service météo.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 7 crayons et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 3 = 4.
+</think>
+Il lui en reste 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 56 plus 99 ?
+<|end|>
+<|assistant|>
+<think>
+56 plus 99 = 155.
+</think>
+56 plus 99 font 155.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 22 moins 18 ?
+<|end|>
+<|assistant|>
+<think>
+22 moins 18 = 4.
+</think>
+22 moins 18 font 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien de secondes y a-t-il dans une minute ?
+<|end|>
+<|assistant|>
+<think>
+Une minute compte soixante secondes.
+</think>
+Une minute compte soixante secondes.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Marc a 6 billes et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 6 - 3 = 3.
+</think>
+Il lui en reste 3.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 23 km/h pendant 7 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 23 fois 7 = 161.
+</think>
+Il parcourt 161 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 30 bonbons et en donne 6. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 30 - 6 = 24.
+</think>
+Il lui en reste 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 36 bonbons et en donne 29. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 36 - 29 = 7.
+</think>
+Il lui en reste 7.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 plus 77 ?
+<|end|>
+<|assistant|>
+<think>
+10 plus 77 = 87.
+</think>
+10 plus 77 font 87.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 moins 53 ?
+<|end|>
+<|assistant|>
+<think>
+70 moins 53 = 17.
+</think>
+70 moins 53 font 17.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 11 pièces et en donne 5. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 11 - 5 = 6.
+</think>
+Il lui en reste 6.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 81 plus 46 ?
+<|end|>
+<|assistant|>
+<think>
+81 plus 46 = 127.
+</think>
+81 plus 46 font 127.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle langue parle-t-on au Brésil ?
+<|end|>
+<|assistant|>
+<think>
+Le Brésil est un pays lusophone.
+</think>
+Au Brésil, on parle portugais.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 39 plus 88 ?
+<|end|>
+<|assistant|>
+<think>
+39 plus 88 = 127.
+</think>
+39 plus 88 font 127.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 69 moins 33 ?
+<|end|>
+<|assistant|>
+<think>
+69 moins 33 = 36.
+</think>
+69 moins 33 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 53 stylos et en donne 37. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 53 - 37 = 16.
+</think>
+Il lui en reste 16.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 fois 10 ?
+<|end|>
+<|assistant|>
+<think>
+9 fois 10 = 90.
+</think>
+9 fois 10 font 90.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 17 pièces et en donne 6. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 17 - 6 = 11.
+</think>
+Il lui en reste 11.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 54 moins 46 ?
+<|end|>
+<|assistant|>
+<think>
+54 moins 46 = 8.
+</think>
+54 moins 46 font 8.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 8 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+8 fois 3 = 24.
+</think>
+8 fois 3 font 24.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Au revoir
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur prend congé.
+</think>
+Au revoir, à bientôt !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Salut, ça va ?
+<|end|>
+<|assistant|>
+<think>
+C'est une question amicale. Je réponds simplement.
+</think>
+Ça va bien, merci ! Et toi ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonsoir
+<|end|>
+<|assistant|>
+<think>
+Une salutation du soir. Je réponds de la même façon.
+</think>
+Bonsoir ! Que puis-je faire pour vous ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 60 moins 21 ?
+<|end|>
+<|assistant|>
+<think>
+60 moins 21 = 39.
+</think>
+60 moins 21 font 39.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Bonjour !
+<|end|>
+<|assistant|>
+<think>
+Il faut répondre poliment à une salutation.
+</think>
+Bonjour ! Comment puis-je vous aider ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 6 plus 23 ?
+<|end|>
+<|assistant|>
+<think>
+6 plus 23 = 29.
+</think>
+6 plus 23 font 29.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 5 billes et en donne 4. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 5 - 4 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 2 pièces et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 2 - 1 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 9 fois 12 ?
+<|end|>
+<|assistant|>
+<think>
+9 fois 12 = 108.
+</think>
+9 fois 12 font 108.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « mountain » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais mountain correspond au français montagne.
+</think>
+« mountain » se traduit par « montagne ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 84 moins 6 ?
+<|end|>
+<|assistant|>
+<think>
+84 moins 6 = 78.
+</think>
+84 moins 6 font 78.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « thank you » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais thank you correspond au français merci.
+</think>
+« thank you » se traduit par « merci ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Léa a 16 stylos et en donne 2. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 16 - 2 = 14.
+</think>
+Il lui en reste 14.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Salut, ça va ?
+<|end|>
+<|assistant|>
+<think>
+C'est une question amicale. Je réponds simplement.
+</think>
+Ça va bien, merci ! Et toi ?
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 41 moins 0 ?
+<|end|>
+<|assistant|>
+<think>
+41 moins 0 = 41.
+</think>
+41 moins 0 font 41.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Nora a 22 billes et en donne 8. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 22 - 8 = 14.
+</think>
+Il lui en reste 14.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 21 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 21 fois 9 = 189.
+</think>
+Il parcourt 189 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « lune » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot lune se traduit par moon.
+</think>
+« lune » se traduit par « moon ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 55 plus 20 ?
+<|end|>
+<|assistant|>
+<think>
+55 plus 20 = 75.
+</think>
+55 plus 20 font 75.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Lina a 16 cartes et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 16 - 3 = 13.
+</think>
+Il lui en reste 13.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la racine carrée de 81 ?
+<|end|>
+<|assistant|>
+<think>
+Neuf fois neuf font quatre-vingt-un.
+</think>
+La racine carrée de 81 est 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « friend » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais friend correspond au français ami.
+</think>
+« friend » se traduit par « ami ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 80 moins 39 ?
+<|end|>
+<|assistant|>
+<think>
+80 moins 39 = 41.
+</think>
+80 moins 39 font 41.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « sun » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais sun correspond au français soleil.
+</think>
+« sun » se traduit par « soleil ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quel est le cours du bitcoin maintenant ?
+<|end|>
+<|assistant|>
+<think>
+Je ne dispose pas de données de marché en temps réel.
+</think>
+Je ne peux pas donner le cours actuel. Vérifiez une plateforme de marché.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Au revoir
+<|end|>
+<|assistant|>
+<think>
+L'utilisateur prend congé.
+</think>
+Au revoir, à bientôt !
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 20 crayons et en donne 10. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 20 - 10 = 10.
+</think>
+Il lui en reste 10.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 5 fois 0 ?
+<|end|>
+<|assistant|>
+<think>
+5 fois 0 = 0.
+</think>
+5 fois 0 font 0.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Quelle est la capitale du Portugal ?
+<|end|>
+<|assistant|>
+<think>
+Le Portugal a pour capitale Lisbonne.
+</think>
+La capitale du Portugal est Lisbonne.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 10 fois 10 ?
+<|end|>
+<|assistant|>
+<think>
+10 fois 10 = 100.
+</think>
+10 fois 10 font 100.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « porte » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot porte se traduit par door.
+</think>
+« porte » se traduit par « door ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 47 moins 8 ?
+<|end|>
+<|assistant|>
+<think>
+47 moins 8 = 39.
+</think>
+47 moins 8 font 39.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Hugo a 3 cartes et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 3 - 1 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 85 moins 64 ?
+<|end|>
+<|assistant|>
+<think>
+85 moins 64 = 21.
+</think>
+85 moins 64 font 21.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « merci » en anglais.
+<|end|>
+<|assistant|>
+<think>
+Le mot merci se traduit par thank you.
+</think>
+« merci » se traduit par « thank you ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Qu'est-ce qu'un mammifère ?
+<|end|>
+<|assistant|>
+<think>
+Un mammifère est un animal vertébré dont les femelles allaitent leurs petits.
+</think>
+Un mammifère est un animal vertébré qui allaite ses petits.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 102 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 102 fois 9 = 918.
+</think>
+Il parcourt 918 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 7 livres et en donne 3. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 3 = 4.
+</think>
+Il lui en reste 4.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Inès a 25 bonbons et en donne 24. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 25 - 24 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 87 plus 36 ?
+<|end|>
+<|assistant|>
+<think>
+87 plus 36 = 123.
+</think>
+87 plus 36 font 123.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 2 pommes et en donne 1. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 2 - 1 = 1.
+</think>
+Il lui en reste 1.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 96 plus 43 ?
+<|end|>
+<|assistant|>
+<think>
+96 plus 43 = 139.
+</think>
+96 plus 43 font 139.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 110 km/h pendant 3 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 110 fois 3 = 330.
+</think>
+Il parcourt 330 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 12 fois 3 ?
+<|end|>
+<|assistant|>
+<think>
+12 fois 3 = 36.
+</think>
+12 fois 3 font 36.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 53 km/h pendant 7 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 53 fois 7 = 371.
+</think>
+Il parcourt 371 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Un train roule à 57 km/h pendant 9 heures. Quelle distance parcourt-il ?
+<|end|>
+<|assistant|>
+<think>
+distance = vitesse fois temps = 57 fois 9 = 513.
+</think>
+Il parcourt 513 km.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 70 plus 70 ?
+<|end|>
+<|assistant|>
+<think>
+70 plus 70 = 140.
+</think>
+70 plus 70 font 140.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Sami a 7 crayons et en donne 5. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 7 - 5 = 2.
+</think>
+Il lui en reste 2.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Paul a 18 bonbons et en donne 9. Combien lui en reste-t-il ?
+<|end|>
+<|assistant|>
+<think>
+Il reste 18 - 9 = 9.
+</think>
+Il lui en reste 9.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 16 plus 68 ?
+<|end|>
+<|assistant|>
+<think>
+16 plus 68 = 84.
+</think>
+16 plus 68 font 84.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Écris une fonction Python qui inverse une chaîne.
+<|end|>
+<|assistant|>
+<think>
+Le découpage avec un pas de moins un inverse la chaîne.
+</think>
+def inverse(s):
+    return s[::-1]
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Traduis « city » en français.
+<|end|>
+<|assistant|>
+<think>
+Le mot anglais city correspond au français ville.
+</think>
+« city » se traduit par « ville ».
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 92 moins 57 ?
+<|end|>
+<|assistant|>
+<think>
+92 moins 57 = 35.
+</think>
+92 moins 57 font 35.
+<|end|>
+<|system|>
+Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.
+<|end|>
+<|user|>
+Combien font 79 plus 92 ?
+<|end|>
+<|assistant|>
+<think>
+79 plus 92 = 171.
+</think>
+79 plus 92 font 171.
+<|end|>

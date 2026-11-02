@@ -1,0 +1,1 @@
+- [Python package resolver](python-package-resolver.md) — inspect root Python metadata after package-add attempts, including failed resolutions.

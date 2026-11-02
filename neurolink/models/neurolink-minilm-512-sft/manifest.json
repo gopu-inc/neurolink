@@ -1,0 +1,26 @@
+{
+  "name": "neurolink-minilm-512:latest",
+  "family": "neurolink",
+  "format": "transformer",
+  "created_at": "2026-11-01T13:36:32.931614+00:00",
+  "parameter_size": "",
+  "capabilities": [
+    "completion",
+    "chat",
+    "thinking",
+    "embedding"
+  ],
+  "system": "Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.",
+  "phase": "sft",
+  "steps_done": 539,
+  "val_loss": 1.994460090994835,
+  "parameters": {
+    "temperature": 0.7,
+    "top_k": 40,
+    "top_p": 0.9,
+    "num_predict": 1000000,
+    "stop": [
+      "<|user|>"
+    ]
+  }
+}

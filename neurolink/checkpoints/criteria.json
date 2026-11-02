@@ -1,0 +1,49 @@
+{
+  "model": "neurolink-minilm-512-sft",
+  "summary": {
+    "C1 pertinence": "0/3",
+    "C2 contexte": "0/3",
+    "C3 réflexion": "2/3"
+  },
+  "passed": {
+    "C1 pertinence": false,
+    "C2 contexte": false,
+    "C3 réflexion": true
+  },
+  "delivered": false,
+  "details": [
+    {
+      "seed": 1,
+      "C1": "",
+      "C2": "",
+      "pensee": "Sual_re de les sun tainste des le formanine des l'avers du surait les de de de la passs artins le de la pres de mocule dans des de les des le ma des mécomment de la connnse un des l'Armais ravertions ",
+      "ok": [
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "seed": 2,
+      "C1": "",
+      "C2": "<|acturès dennane documes somontion de fou bor est du le a sour à la dons de l'apres docus de pres du cement des de l'anst de la peu de dans le de tes le pas pertications d'unine de cons de la de de c",
+      "pensee": "<|>\n<|thinkinking|>",
+      "ok": [
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "seed": 3,
+      "C1": "<|actue|>\n\n\nSual_response|>\nSual_response|>\nSe la dsprème le prices dans de tour la de la procume de dans le re le son ré prons la ens",
+      "C2": "",
+      "pensee": "<|actue|>\n\n\n<|thinkinking|>\n\n\n<|>",
+      "ok": [
+        false,
+        false,
+        true
+      ]
+    }
+  ]
+}

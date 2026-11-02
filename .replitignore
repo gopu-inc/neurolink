@@ -3,3 +3,7 @@
 
 # No need to store the pnpm store twice.
 .local
+
+# Keep training data, checkpoints, model weights, and reports out of deployments.
+generated-artifacts/
+.pythonlibs/

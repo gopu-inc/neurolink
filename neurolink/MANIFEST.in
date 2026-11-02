@@ -1,0 +1,5 @@
+include README.md
+include server_nl.py
+include csrc/neurolite.c
+include corpus/*.txt
+recursive-include models *

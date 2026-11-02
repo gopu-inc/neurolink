@@ -1,0 +1,11 @@
+# Install only in a compatible GPU environment. QLoRA needs CUDA-enabled PyTorch
+# and bitsandbytes; do not install this stack in a CPU-only Replit runtime.
+torch>=2.6
+transformers>=4.51
+trl>=0.23
+peft>=0.15
+accelerate>=1.6
+bitsandbytes>=0.45
+datasets>=3.4
+sentence-transformers>=4.1
+pyarrow>=15

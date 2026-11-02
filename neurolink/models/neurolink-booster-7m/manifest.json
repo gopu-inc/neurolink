@@ -1,0 +1,86 @@
+{
+  "name": "neurolink-booster-7m:latest",
+  "family": "neurolink",
+  "format": "nn",
+  "created_at": "2026-10-31T13:15:55.522983+00:00",
+  "parameter_size": "7.10M",
+  "capabilities": [
+    "completion",
+    "embedding"
+  ],
+  "config": {
+    "vocab_size": 321,
+    "context": 32,
+    "dim": 128,
+    "hidden": 1100,
+    "experts": 4,
+    "topk": 4,
+    "params": 7101700,
+    "architecture": "booster-moe"
+  },
+  "system": "Tu es NeuroLink Think, un assistant qui réfléchit étape par étape avant de répondre.",
+  "parameters": {
+    "temperature": 0.7,
+    "top_k": 40,
+    "top_p": 0.9,
+    "num_predict": 1000000,
+    "stop": [
+      "<|user|>"
+    ]
+  },
+  "train": {
+    "data": "corpus/mix_v4.txt",
+    "steps_done": 4628,
+    "steps_planned": 5000,
+    "batch": 32,
+    "lr_max": 0.0005,
+    "val_loss": 2.4785265624523163,
+    "history": [
+      {
+        "step": 500,
+        "val_loss": 3.0314880460500717
+      },
+      {
+        "step": 1000,
+        "val_loss": 2.8414745926856995
+      },
+      {
+        "step": 1500,
+        "val_loss": 2.726133331656456
+      },
+      {
+        "step": 2000,
+        "val_loss": 2.6093977987766266
+      },
+      {
+        "step": 2500,
+        "val_loss": 2.5904015749692917
+      },
+      {
+        "step": 2500,
+        "val_loss": 2.5904015749692917
+      },
+      {
+        "step": 3000,
+        "val_loss": 2.582411751151085
+      },
+      {
+        "step": 3500,
+        "val_loss": 2.5082705914974213
+      },
+      {
+        "step": 4000,
+        "val_loss": 2.512867271900177
+      },
+      {
+        "step": 4500,
+        "val_loss": 2.4816724359989166
+      },
+      {
+        "step": 4628,
+        "val_loss": 2.4785265624523163
+      }
+    ],
+    "samples_seen": 148096
+  }
+}

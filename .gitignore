@@ -53,3 +53,7 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Model weights, downloaded datasets, caches, and generated evaluation reports
+/generated-artifacts/
+/.pythonlibs/
